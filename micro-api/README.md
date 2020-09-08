@@ -15,6 +15,8 @@ Microsserviço Backend - API Rest com Nest.js
 ```
 cd mkdir .docker/dbdata
 ```
+#### Para Rodar em Windows mude a configuração "Final de linha" do arquivo .docker/entrypoint.sh para Unix
+
 
 #### Crie os containers com Docker
 
